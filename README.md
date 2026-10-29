@@ -6,9 +6,10 @@ Previously at Google, BlueYonder, and ModelN.
 
 MS Computer Science (AI/ML) at California State University, East Bay.
 
-Currently building **CurriculumMind** — a Common Core-grounded AI tutor for grade 6-12.
+Currently building **CurriculumMind** - a Common Core-grounded AI tutor for grade 6-12.
 
 🌐 [curriculummind.com](https://www.curriculummind.com)  
+
 💼 [LinkedIn](https://www.linkedin.com/in/swathi-pallikala)
 
 <!---
