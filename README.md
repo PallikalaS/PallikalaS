@@ -1,10 +1,10 @@
 # Swathi Pallikala
 
-Software Development Engineer with 7+ years of experience.  
+**Software Development Engineer** with **7+** years of experience.  
 
-Previously at Google, BlueYonder, and ModelN.  
+Previously at **Google**, **BlueYonder**, and **ModelN**.  
 
-MS Computer Science - AI & ML concentration at California State University, East Bay.
+**MS** Computer Science - **AI & ML** concentration at **California State University**, East Bay **graduating** in **Fall 2026**.
 
 Currently building **CurriculumMind** - a Common Core-grounded AI tutor for grade 6-12.
 
