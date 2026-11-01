@@ -9,6 +9,7 @@ These days I'm building **CurriculumMind**, a Common Core-grounded AI tutor that
 🔒 **Heads up:** most of my code lives in private repos, so this profile looks quieter than my week actually is! 
 If you'd like to see what I'm working on, just reach out. I'd love to walk you through it.
 
+✨ [Check out my portfolio](https://pallikalas.github.io/) to see more of what I've built  
 🌐 [curriculummind.com](https://www.curriculummind.com)  
 💼 [Let's connect on LinkedIn](https://www.linkedin.com/in/swathi-pallikala)
 
