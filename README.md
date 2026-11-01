@@ -6,7 +6,8 @@ I'm finishing my **MS in Computer Science (AI & ML)** at **California State Univ
 
 These days I'm building **CurriculumMind**, a Common Core-grounded AI tutor that helps students in grades 6-12 learn with confidence. 🚀
 
-🔒 **Heads up:** most of my code lives in private repos, so this profile looks quieter than my week actually is! If you'd like to see what I'm working on, just reach out. I'd love to walk you through it.
+🔒 **Heads up:** most of my code lives in private repos, so this profile looks quieter than my week actually is! 
+If you'd like to see what I'm working on, just reach out. I'd love to walk you through it.
 
 🌐 [curriculummind.com](https://www.curriculummind.com)  
 💼 [Let's connect on LinkedIn](https://www.linkedin.com/in/swathi-pallikala)
